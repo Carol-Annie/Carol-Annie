@@ -1,6 +1,7 @@
-- 👩🏻‍🎓 Olá, sou a Anne estudante de graduação em Ciência da Computação na Universidade Federal do Ceará - Campus Russas. Atualmente participo como bolsista voluntária no projeto Angel que envolve pesquisa, desenvolvimento de aplicações de IoHT, algoritmos de Machine Learning e desenvolvimento mobile, pelo grupo GREat.
-- 🧠 Interesses na área de Lógica computacional,Internet of Things, Machine Learning, Big Data, NLP, desenvolvimento mobile e de sistemas.
+- 👩🏻‍🎓 Olá sou a Anne, estudante de graduação em Ciência da Computação na Universidade Federal do Ceará - Campus Russas. Atualmente participo como bolsista voluntária no projeto Angel que envolve pesquisa, desenvolvimento de aplicações de IoHT, algoritmos de Machine Learning e desenvolvimento mobile, pelo grupo GREat.
+- 🧠 Interesses na área de Lógica computacional,Internet of Things, Machine Learning, Big Data, NLP, Desenvolvimento Mobile e de Sistemas.
 - 📚 Aprendendo atualmente como desenvolver códigos limpos, JavaScript, GO, utilizar TensorFlow para construção de algoritmos ML e me aprofundando na lingua inglesa.
+- ⚙️ Códigos de alguns repositorios estão sendo atualizados.
 - 📫 anniecarol.svl72@gmail.com
 
 <div align="center">
